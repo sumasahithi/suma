@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>chikki web page</title>
+</head>
+<body>
+<h1>welcome to my page</h1>
+<img src="images/maheshbabu.jpg">
+</body>
+</html>
